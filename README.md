@@ -5,7 +5,7 @@ My project consist of sharing with you my favorite books and their sommary !
 
 Installing :
 
-	npm install capucinecoudert/myreactappforcodein
+	npm install https://github.com/capucinecoudert/myreactappforcodein.git
 
 Usage :
 
